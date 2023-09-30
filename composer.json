@@ -1,0 +1,14 @@
+{
+    "name": "baneeishaque/webhook_demo",
+    "description": "Webhook Demo",
+    "type": "project",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Banee Ishaque K",
+            "email": "Baneeishaque@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
